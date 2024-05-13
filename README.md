@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=1C768F&height=300&section=header&text=FullStackDeveloper&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=1C768F&height=300&section=header&text=FullStackDeveloper&fontAlignY=30&fontSize=70)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Samuel+Cordoba+or;Scorhenao)](https://git.io/typing-svg)
 - 👀 I’m passionate about the TICS and Ciences
 - 🌱 I’m currently learning to being a fullstack sofware developer
