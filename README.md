@@ -5,3 +5,4 @@
 - My native language is spanish but I have a b1 level in english
 - In the world of program I know php, python, css, laravel, bootstrap, javascript, html, git, metodology scrum
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
