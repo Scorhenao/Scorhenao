@@ -1,4 +1,4 @@
-- 👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'm+Samuel+Cordoba;or+Scorhenao)](https://git.io/typing-svg)
+👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'm+Samuel+Cordoba;or+Scorhenao)](https://git.io/typing-svg)
 - 👀 I’m passionate about the TICS and Ciences
 - 🌱 I’m currently learning to being a fullstack sofware developer
 - 💞️ I’m looking to collaborate on projects to improve my experience and skills
