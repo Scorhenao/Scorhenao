@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'm+Samuel+Cordoba;or+Scorhenao)](https://git.io/typing-svg)
 
-[![header](https://[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'm+Samuel+Cordoba;or+Scorhenao)](https://git.io/typing-svg).vercel.app/api?](https://capsule-render.vercel.app/api?)type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+https://capsule-render.vercel.app/api?
 - 👀 I’m passionate about the TICS and Ciences
 - 🌱 I’m currently learning to being a fullstack sofware developer
 - 💞️ I’m looking to collaborate on projects to improve my experience and skills
