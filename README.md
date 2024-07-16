@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,tailwind,ubuntu,vscode,windows,nestjs,ts)](https://skillicons.dev)
 
-Where I've been studied
+# Where I've been studied
 
 ![riwiLogo](https://github.com/user-attachments/assets/0efca4f5-da87-4785-a9c5-0179dae4fd38)
 ![smartAcademy](https://github.com/user-attachments/assets/7b16739b-e010-47d7-9e5d-7c80fc58d5be)
