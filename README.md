@@ -12,4 +12,5 @@
 
 Where I've been studied
 
-![riwi_io_logo-Photoroom](https://github.com/user-attachments/assets/0efca4f5-da87-4785-a9c5-0179dae4fd38)
+![riwiLogo](https://github.com/user-attachments/assets/0efca4f5-da87-4785-a9c5-0179dae4fd38)
+![smartAcademy](https://github.com/user-attachments/assets/7b16739b-e010-47d7-9e5d-7c80fc58d5be)
