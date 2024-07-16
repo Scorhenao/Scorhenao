@@ -3,6 +3,7 @@
 - 🏁 I’m passionate about the TICS and Ciences
 - 🌱 I’m currently learning to being a fullstack sofware developer
  <img src="https://github.com/user-attachments/assets/7e4df677-2e88-40dc-8a51-ebf90d1cd2a9" Style="position:absolute;" />
+ 
 - 🔎 I’m looking to collaborate on projects to improve my experience and skills
 - 🌐 My native language is spanish but I have a b1 level in english
 
