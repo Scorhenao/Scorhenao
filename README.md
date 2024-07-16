@@ -6,4 +6,5 @@
 - 🔎 I’m looking to collaborate on projects to improve my experience and skills
 - 🌐 My native language is spanish but I have a b1 level in english
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,tailwind,ubuntu,vscode,windows,nestjs,ts)](https://skillicons.dev)
+[![My S![riwi_io_logo-removebg-preview](https://github.com/user-attachments/assets/b119d8b9-cbce-41d5-b34b-6d9a289de9c0)
+kills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,tailwind,ubuntu,vscode,windows,nestjs,ts)](https://skillicons.dev)
