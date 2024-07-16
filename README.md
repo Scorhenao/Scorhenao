@@ -9,3 +9,6 @@
 - 🌐 My native language is spanish but I have a b1 level in english
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,tailwind,ubuntu,vscode,windows,nestjs,ts)](https://skillicons.dev)
+
+Where I've been studied
+![riwi_io_logo-Photoroom](https://github.com/user-attachments/assets/0efca4f5-da87-4785-a9c5-0179dae4fd38)
