@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Samuel+Cordoba+or;Scorhenao)](https://git.io/typing-svg)
 - 🏁 I’m passionate about the TICS and Ciences
 - 🌱 I’m currently learning to being a fullstack sofware developer
-- 💞️ I’m looking to collaborate on projects to improve my experience and skills
 - 🔎 I’m looking to collaborate on projects to improve my experience and skills
 - 🌐 My native language is spanish but I have a b1 level in english
 
