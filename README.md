@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning to being a fullstack sofware developer
 - 🔎 I’m looking to collaborate on projects to improve my experience and skills
 - 🌐 My native language is spanish but I have a b1 level in english
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jhonatan-toro-40a3292b6](https://www.linkedin.com/in/samuel-c%C3%B3rdoba-15a8362b9/)) 
 
 # My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,tailwind,ubuntu,vscode,windows,nestjs,ts)](https://skillicons.dev)
@@ -16,3 +18,10 @@
 ![smartAcademy](https://github.com/user-attachments/assets/7b16739b-e010-47d7-9e5d-7c80fc58d5be)
 ![senaLogo](https://github.com/user-attachments/assets/60f174d2-2b63-422c-ac72-8b1a9b0facff)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Scorhenao&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Scorhenao&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorhenao&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Scorhenao&theme=radical&no-frame=false&no-bg=false&margin-w=4)
