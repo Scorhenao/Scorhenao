@@ -6,7 +6,7 @@
 - 🔎 I’m looking to collaborate on projects to improve my experience and skills
 - 🌐 My native language is spanish but I have a b1 level in english
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jhonatan-toro-40a3292b6](https://www.linkedin.com/in/samuel-c%C3%B3rdoba-15a8362b9/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-c%C3%B3rdoba-15a8362b9/)) 
 
 # My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,tailwind,ubuntu,vscode,windows,nestjs,ts)](https://skillicons.dev)
