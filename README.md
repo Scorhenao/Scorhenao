@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-c%C3%B3rdoba-15a8362b9/) 
 
 # My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,tailwind,ubuntu,vscode,windows,nestjs,ts,react,docker,mongo,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,django,tailwind,ubuntu,vscode,windows,nestjs,ts,react,docker,mongo,postgresql)](https://skillicons.dev)
 
 # Where I've been studied
 
