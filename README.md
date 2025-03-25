@@ -4,7 +4,7 @@
 - 🏁 I’m passionate about the TICS and Ciences
 - 🌱 I’m currently learning to being a fullstack sofware developer
 - 🔎 I’m looking to collaborate on projects to improve my experience and skills
-- 🌐 My native language is spanish but I have a b1 level in english
+- 🌐 My native language is spanish but I have a b2 level in english
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-c%C3%B3rdoba-15a8362b9/) 
 
