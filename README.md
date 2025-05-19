@@ -12,16 +12,14 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,laravel,linux,mysql,nodejs,npm,php,py,django,tailwind,ubuntu,vscode,windows,nestjs,ts,react,docker,mongo,postgresql)](https://skillicons.dev)
 
 # Where I've been studied
-
-![jorge](https://github.com/user-attachments/assets/96518306-ec7d-4cb9-a79a-68cb5b300397)
-![riwiLogo](https://github.com/user-attachments/assets/0efca4f5-da87-4785-a9c5-0179dae4fd38)
-![smartAcademy](https://github.com/user-attachments/assets/7b16739b-e010-47d7-9e5d-7c80fc58d5be)
-![senaLogo](https://github.com/user-attachments/assets/60f174d2-2b63-422c-ac72-8b1a9b0facff)
-
+- Educative Institute Jorge robledo
+- CESGE
+- RIWI
+- Smart Academy
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Scorhenao&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Scorhenao&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorhenao&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorhenao&theme=radical&hide_progress=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Scorhenao&theme=radical&no-frame=false&no-bg=false&margin-w=4)
