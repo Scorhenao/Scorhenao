@@ -22,10 +22,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Scorhenao&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Scorhenao&theme=radical&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorhenao&theme=radical&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorhenao&theme=radical&hide_progress=true)<br/>
+![Followers](https://img.shields.io/github/followers/Scorhenao?style=social)
+![Stars](https://img.shields.io/github/stars/Scorhenao?style=social)
 
 
 # GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Scorhenao&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
+[![](https://github-profile-trophy.vercel.app/?username=Scorhenao&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+](https://github-profile-trophy.vercel.app/?username=Scorhenao-ma&rank=S,AAA
+)
 </div>
